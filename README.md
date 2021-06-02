@@ -19,7 +19,7 @@ database connection file under "src/database/Connect"
 
 ### **mysql dummy data needs to be imported to create the tables**
 
-(entreprise table needs to be filled with one line )
+(entreprise table needs to be filled with one row )
 
 ### **Models:**
 
