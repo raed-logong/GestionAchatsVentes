@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="386.0">models.Entreprise</node>
+    <node x="113.0" y="0.0">models.Entity</node>
+    <node x="360.0" y="373.0">models.Client</node>
+    <node x="191.0" y="386.0">models.Fournisseur</node>
+    <node x="0.0" y="507.0">models.Produit</node>
+    <node x="517.0" y="507.0">models.BankAccount</node>
+    <node x="285.0" y="507.0">models.Address</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="models.Client" target="models.Entity">
+      <point x="0.0" y="-44.5" />
+      <point x="456.0" y="348.0" />
+      <point x="367.1666666666667" y="348.0" />
+      <point x="101.66666666666669" y="161.5" />
+    </edge>
+    <edge source="models.Fournisseur" target="models.Entity">
+      <point x="0.0" y="-31.5" />
+      <point x="0.0" y="161.5" />
+    </edge>
+    <edge source="models.Entreprise" target="models.Entity">
+      <point x="0.0" y="-31.5" />
+      <point x="85.5" y="348.0" />
+      <point x="163.83333333333331" y="348.0" />
+      <point x="-101.66666666666669" y="161.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9703470031545743" x="427.4743172951885" y="403.83777633289986" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
