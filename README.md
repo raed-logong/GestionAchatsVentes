@@ -36,7 +36,7 @@ Client and Fournisseur are basically the same so i created one model "Client.jav
 ![Fournisseur ](imagesforgit/Fournisseur%20view.png)
 
 **Client**
-![Client ](imagesforgit/Fournisseur%20view.png)
+![Client ](imagesforgit/Client%20View.png)
 
 **Verification:**
 ![Verfication ](imagesforgit/realtime%20verification.png)
